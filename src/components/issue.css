@@ -1,0 +1,21 @@
+.outer-box {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.title {
+    font-weight: 600;
+    color: black;
+}
+
+.label {
+    display: inline-block;
+    padding: 0 7px;
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid transparent;
+    border-radius: 2em;
+    border-color: black;
+    margin-left: 1%;
+}
+
